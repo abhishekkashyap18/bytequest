@@ -26,7 +26,7 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 
 ## Built with
 - Next.js(React Framework)
--Axios
+- Axios
 
 
 ## Learn More
